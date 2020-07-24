@@ -3,3 +3,6 @@ Html-CSS-Javascript assignment solutions
 
 Module-2 Assignment solution---
 https://akash0424.github.io/Coursera_html-css-js/module2
+
+Module-3 Assignment solution---
+https://akash0424.github.io/Coursera_html-css-js/module3
